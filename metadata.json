@@ -1,0 +1,5 @@
+{
+  "name": "Spaceship - VERIFICATION",
+  "description": "A high-security, futuristic web-based system for verifying and confirming idea pitching program participants (Pilots) using multi-factor authorization and unique ID generation.",
+  "requestFramePermissions": []
+}
