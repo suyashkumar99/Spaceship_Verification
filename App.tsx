@@ -1,9 +1,9 @@
 function App() {
   return (
-    <div style={{ padding: "40px", fontSize: "24px" }}>
-      🚀 Spaceship Verification is LIVE
+    <div style={{ padding: 40, fontSize: 28 }}>
+      ✅ Spaceship Verification App is Working
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
